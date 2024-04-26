@@ -8,7 +8,7 @@ This Laravel project demonstrates CRUD (Create, Read, Update, Delete) operations
 
 ## Requirements
 
-- PHP (>= 7.x)
+- PHP (>= 8.x)
 - Composer
 - Laravel CLI
 - MySQL or any other supported database
